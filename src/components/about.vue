@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-jumbotron container-fluid="true">
+    <b-jumbotron container-fluid="true" bg-variant="info" text-variant="white" border-variant="dark">
        <!-- Puts the element in a table so the photo can be on the right side of the text -->
       <b-container class="bv-example-row" fluid>
         <b-row>
@@ -16,9 +16,10 @@
               He is currently looking for an internship for the summer of 2021.
             </p>
 
-            <b-button variant="primary" href="https://www.linkedin.com/in/mark-juenemann/">Linkedin</b-button>
-            <br />
-            <b-button variant="success" href="https://github.com/rangers5">Github</b-button></b-col>
+            <b-button variant="primary" size="md" href="https://www.linkedin.com/in/mark-juenemann/">Linkedin</b-button>  
+            <b-button variant="success" size="md" href="https://github.com/rangers5">Github</b-button>      
+            </b-col>
+            
           <b-col md="auto">
              <!-- Right side image block -->
             <b-img :src="photo" rounded height="300em" alt="Fluid image"></b-img
@@ -35,6 +36,7 @@ export default {
    //   Get the location of the photo
     return {
       photo: require("@/assets/photo.jpg"),
+      
     };
   },
   components: {},
