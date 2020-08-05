@@ -2,7 +2,7 @@
   <div>
     <b-jumbotron
       header="Projects"
-      lead="A list of current projects that I have done"
+      lead="A list of projects that I have completed or actively working on"
     >
       <!-- For each project, add a card to the card group
        -->
@@ -35,24 +35,24 @@ export default {
         {
           projectName: "This Website",
           projectDescription:
-            "This website was built my me using Vue and Vue-Bootstrap as the frontend, check the source code in the link below.",
+            "This website was built by me using Vue and Vue-Bootstrap as the frontend, check the source code in the link below.",
           projectLink: "https://github.com/rangers5/Resume-Website",
           projectImage: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fspin.atomicobject.com%2Fwp-content%2Fuploads%2FiStock_000029124968Medium-bwcrop.jpg&f=1&nofb=1",
         },
         {
           projectName: "CSGO stat tracker",
           projectDescription:
-            "Website that displays your worst stats in CSGO (deaths, low K/D, low ADR, ect.) for the given username entered using the tracker.gg api",
+            "Website that displays your worst stats in CSGO (deaths, low K/D, low ADR, etc.) for the given username entered using the tracker.gg API",
           projectLink: "https://github.com/rangers5/CSGO-Website",
           projectImage: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.K9lEPS_eeHQStPFNGQxBmgHaDt%26pid%3DApi&f=1",
         },
         {
           projectName: "OWL Match Predictor",
           projectDescription:
-            "A simple node.js project that attempted to predict the outcome of Overwatch Leauge matches based on previous match data",
-          projectLink: "https://github.com/rangers5",
+            "A simple Node.js project that attempts to predict the outcome of Overwatch League matches based on previous match data",
+          projectLink: "https://github.com/rangers5/OWL-Match-Predictor",
           projectImage: "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fd.ibtimes.co.uk%2Fen%2Ffull%2F1624359%2Foverwatch-league.png&f=1&nofb=1",
-        },
+        },    
       ],
     };
   },

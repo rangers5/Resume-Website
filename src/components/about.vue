@@ -8,12 +8,12 @@
              <!-- Left side text block -->
             <h1>About Me</h1>
             <h3>
-              Mark Juenemann is a double major in computer science and
-              mathematics pursuing a degree at Ramapo College of New Jersey.
+              My name is Mark Juenemann, and I am a double major in computer science and
+              mathematics pursuing a degree at RCNJ.
             </h3>
             <hr />
             <p>
-              He is currently looking for an internship for the summer of 2021.
+              I have experience working with C++, C#, Java, Javascript, and HTML using Node.js, Vue, and Express. I am currently looking for an internship for the summer of 2021 along with any other opportunities you might have.
             </p>
 
             <b-button variant="primary" size="md" href="https://www.linkedin.com/in/mark-juenemann/">Linkedin</b-button>  
