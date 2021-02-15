@@ -5,6 +5,10 @@
     <Projects id="projects" />
     <Contact id="contact" />
     <Resume />
+    <hr style="background-color: black">
+    <footer>
+       <p class="text-center p3">Website made by Mark Juenemann</p>
+    </footer>
   </div>
 </template>
 

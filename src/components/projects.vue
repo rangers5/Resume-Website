@@ -41,14 +41,6 @@ export default {
             "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fspin.atomicobject.com%2Fwp-content%2Fuploads%2FiStock_000029124968Medium-bwcrop.jpg&f=1&nofb=1",
         },
         {
-          projectName: "Valorant Stat Tracker",
-          projectDescription:
-            "Planned Project: Waiting on the Valorant API to come out of closed beta before starting the project as it is needed to get the info for the site",
-          projectLink: "https://github.com/rangers5/Valorant-Website",
-          projectImage:
-            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic3.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F04%2FValorant-Team-Comp.jpg&f=1&nofb=1",
-        },
-        {
           projectName: "OWL Match Predictor",
           projectDescription:
             "A simple Node.js project that attempts to predict the outcome of Overwatch League matches based on previous match data",
@@ -57,10 +49,10 @@ export default {
             "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fd.ibtimes.co.uk%2Fen%2Ffull%2F1624359%2Foverwatch-league.png&f=1&nofb=1",
         },
         {
-          projectName: "Data Structures Projects",
+          projectName: "Data Analytics in Python Final Project",
           projectDescription:
-            "A collection of projects from my CS220 class. Each project is in its own folder, and will be updated as the class progresses",
-          projectLink: "https://github.com/rangers5/CS220-Projects",
+            "The coding section of the multi-part final project for this course that examines the OWL data set.",
+          projectLink: "https://github.com/rangers5/PythonFinal",
           projectImage:
             "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FgdeNPT3VPXourlhOgy%2F200_s.gif%3Fcid%3D790b761199ugdi8gn0p6x68lehr729qmqvfadf8als9j5ebs%26rid%3D200_s.gif&f=1&nofb=1",
         },
