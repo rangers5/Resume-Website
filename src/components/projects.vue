@@ -38,7 +38,7 @@ export default {
             "This website was built by me using Vue and Vue-Bootstrap as the frontend, check the source code in the link below.",
           projectLink: "https://github.com/rangers5/Resume-Website",
           projectImage:
-            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fspin.atomicobject.com%2Fwp-content%2Fuploads%2FiStock_000029124968Medium-bwcrop.jpg&f=1&nofb=1",
+            "https://jooinn.com/images/html-code-4.jpg",
         },
         {
           projectName: "OWL Match Predictor",
@@ -46,7 +46,7 @@ export default {
             "A simple Node.js project that attempts to predict the outcome of Overwatch League matches based on previous match data",
           projectLink: "https://github.com/rangers5/OWL-Match-Predictor",
           projectImage:
-            "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fd.ibtimes.co.uk%2Fen%2Ffull%2F1624359%2Foverwatch-league.png&f=1&nofb=1",
+            "https://i0.wp.com/invisioncommunity.co.uk/wp-content/uploads/2017/07/OW_League_Logo_Lockup_light_bkg.png",
         },
         {
           projectName: "Data Analytics in Python Final Project",
@@ -54,7 +54,7 @@ export default {
             "The coding section of the multi-part final project for this course that examines the OWL data set.",
           projectLink: "https://github.com/rangers5/PythonFinal",
           projectImage:
-            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FgdeNPT3VPXourlhOgy%2F200_s.gif%3Fcid%3D790b761199ugdi8gn0p6x68lehr729qmqvfadf8als9j5ebs%26rid%3D200_s.gif&f=1&nofb=1",
+            "https://www.ramapo.edu/social-media/files/2021/02/arch-zoom-background.png",
         },
       ],
     };
