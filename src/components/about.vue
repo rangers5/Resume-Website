@@ -13,11 +13,11 @@
             </h3>
             <hr />
             <p>
-              I have experience working with C++, C#, Java, Javascript, and HTML using Node.js, Vue, and Express. I am currently looking for an internship for the summer of 2021 along with any other opportunities you might have.
+              I have experience working with C++, C#, Java, Python, and Javascript using Node.js, Vue, and Express. I am currently looking for an internship for the summer of 2022 along with any other opportunities you might have.
             </p>
 
-            <b-button variant="primary" size="md" href="https://www.linkedin.com/in/mark-juenemann/">Linkedin</b-button>  
-            <b-button variant="success" size="md" href="https://github.com/rangers5">Github</b-button>      
+            <b-button variant="primary" size="md" href="https://www.linkedin.com/in/mark-juenemann/" class="socialButton">Linkedin</b-button>  
+            <b-button variant="success" size="md" href="https://github.com/rangers5" class="socialButton">Github</b-button>      
             </b-col>
             
           <b-col md="auto">
@@ -42,4 +42,9 @@ export default {
   components: {},
 };
 </script>
-<style></style>
+<style>
+.socialButton
+{
+   margin-right: 15px
+}
+</style>

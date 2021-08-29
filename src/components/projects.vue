@@ -28,37 +28,47 @@ export default {
   components: {
     Project,
   },
-  //   Add all completed projects to this array to automaticly add to the website
   data() {
     return {
-      projectList: [
-        {
-          projectName: "This Website",
-          projectDescription:
+      projectList: [         
+         {
+            projectName: "This Website",
+            projectDescription:
             "This website was built by me using Vue and Vue-Bootstrap as the frontend, check the source code in the link below.",
-          projectLink: "https://github.com/rangers5/Resume-Website",
-          projectImage:
+            projectLink: "https://github.com/rangers5/Resume-Website",
+            projectImage:
             "https://jooinn.com/images/html-code-4.jpg",
-        },
-        {
-          projectName: "OWL Match Predictor",
-          projectDescription:
-            "A simple Node.js project that attempts to predict the outcome of Overwatch League matches based on previous match data",
-          projectLink: "https://github.com/rangers5/OWL-Match-Predictor",
-          projectImage:
-            "https://i0.wp.com/invisioncommunity.co.uk/wp-content/uploads/2017/07/OW_League_Logo_Lockup_light_bkg.png",
-        },
-        {
-          projectName: "Data Analytics in Python Final Project",
-          projectDescription:
+         },
+         {
+            projectName: "Data Analytics in Python Final Project",
+            projectDescription:
             "The coding section of the multi-part final project for this course that examines the OWL data set.",
-          projectLink: "https://github.com/rangers5/PythonFinal",
-          projectImage:
+            projectLink: "https://github.com/rangers5/PythonFinal",
+            projectImage:
             "https://www.ramapo.edu/social-media/files/2021/02/arch-zoom-background.png",
-        },
+         },
+         {
+            projectName: "VC5000 Assembler",
+            projectDescription:
+            "An assembler for the VC5000 that converts assembly into machine code to be used in an emulator. Privated at my professors request.",
+            projectLink: null,
+            projectImage:
+            "https://www.ramapo.edu/social-media/files/2021/02/arch-zoom-background.png",
+         },
+         {
+            projectName: "VC5000 Emulator",
+            projectDescription:
+            "An emulator for the VC5000 decimal computer that allows machine code to be insterted into memory and successfully emualted. Privated at my professors request.",
+            projectLink: null,
+            projectImage:
+            "https://www.ramapo.edu/social-media/files/2021/02/arch-zoom-background.png",
+         },
       ],
     };
   },
+  
 };
+
 </script>
 <style></style>
+

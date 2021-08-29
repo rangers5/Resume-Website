@@ -2,20 +2,25 @@
 <div>
    <!-- The card element that each project will have -->
   <b-card
-    :title="projectName"
     :img-src="projectImage"
     img-alt="Image"
     img-top
     tag="article"
-    style="max-width: 20rem;"
+    style="max-width: 20rem; height: 30rem;"
     class="mb-2"
   >
-    <b-card-text >
+    <b-card-title style="height: 3rem;">{{projectName}}</b-card-title>
+    <b-card-text style="height: 9rem;">
        <!-- Insert Project Description -->
        {{projectDescription}}
     </b-card-text>
       <!-- Github button and link -->
-    <b-button :href="projectLink" variant="primary">Visit Github</b-button>
+      <div v-if="projectLink===null">
+         <b-button variant="danger" pressed="false">Private Soruce Code</b-button>
+      </div>
+      <div v-else>
+         <b-button :href="projectLink" variant="primary">Visit Github</b-button>
+      </div>
   </b-card>
 </div>
 </template>
