@@ -71,7 +71,7 @@ export default {
          {
             projectName: "VC5000 Emulator",
             projectDescription:
-            "An emulator for the VC5000 decimal computer that allows machine code to be insterted into memory and successfully emulated. Privated at my professors request.",
+            "An emulator for the VC5000 decimal computer that allows machine code to be inserted into memory and successfully emulated. Privated at my professors request.",
             projectLink: "null",
             projectImage:
             "https://www.markjuenemann.com/img/asm.png",
