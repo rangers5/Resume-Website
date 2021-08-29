@@ -15,7 +15,7 @@
        {{projectDescription}}
     </b-card-text>
       <!-- Github button and link -->
-      <div v-if="projectLink===null">
+      <div v-if="projectLink=='null'">
          <b-button variant="danger" pressed="false">Private Soruce Code</b-button>
       </div>
       <div v-else>
