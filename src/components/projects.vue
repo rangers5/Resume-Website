@@ -50,7 +50,7 @@ export default {
             "This website was built by me using Vue and Vue-Bootstrap as the frontend, check the source code in the link below.",
             projectLink: "https://github.com/rangers5/Resume-Website",
             projectImage:
-            "https://jooinn.com/images/html-code-4.jpg",
+            "https://www.markjuenemann.com/img/html.jpg",
          },
          {
             projectName: "Data Analytics in Python Final Project",
@@ -58,7 +58,7 @@ export default {
             "The coding section of the multi-part final project for this course that examines the OWL data set.",
             projectLink: "https://github.com/rangers5/PythonFinal",
             projectImage:
-            "https://www.ramapo.edu/social-media/files/2021/02/arch-zoom-background.png",
+            "https://www.markjuenemann.com/img/ramapo.png",
          },
          {
             projectName: "VC5000 Assembler",
@@ -66,7 +66,7 @@ export default {
             "An assembler for the VC5000 that converts assembly into machine code to be used in an emulator. Privated at my professors request.",
             projectLink: "null",
             projectImage:
-            "https://www.ramapo.edu/social-media/files/2021/02/arch-zoom-background.png",
+            "https://www.markjuenemann.com/img/asm.png",
          },
          {
             projectName: "VC5000 Emulator",
@@ -74,7 +74,7 @@ export default {
             "An emulator for the VC5000 decimal computer that allows machine code to be insterted into memory and successfully emualted. Privated at my professors request.",
             projectLink: "null",
             projectImage:
-            "https://www.ramapo.edu/social-media/files/2021/02/arch-zoom-background.png",
+            "https://www.markjuenemann.com/img/asm.png",
          },
       ],
     };
