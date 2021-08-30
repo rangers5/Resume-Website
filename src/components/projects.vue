@@ -45,9 +45,9 @@ export default {
        //This has default values that are somewhat up to date as I dont trust the free tier of supabase to keep this api running 24/7 (aka I dont trust me to log in weekly)
       projectList: [         
          {
-            projectName: "This Website",
+            projectName: "Resume Website",
             projectDescription:
-            "This website was built by me using Vue and Vue-Bootstrap as the frontend, check the source code in the link below.",
+            "This website was built by me using Vue and Vue-Bootstrap as the frontend, with Supabase acting as the backend for getting project information.",
             projectLink: "https://github.com/rangers5/Resume-Website",
             projectImage:
             "https://www.markjuenemann.com/img/html.jpg",
