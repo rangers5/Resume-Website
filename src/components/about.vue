@@ -8,8 +8,8 @@
              <!-- Left side text block -->
             <h1>About Me</h1>
             <h3>
-              My name is Mark Juenemann, and I am a double major in computer science and
-              mathematics pursuing a degree at RCNJ.
+              My name is Mark Juenemann, and I am a double major in Computer Science and
+              Mathematics pursuing a degree at RCNJ.
             </h3>
             <hr />
             <p>

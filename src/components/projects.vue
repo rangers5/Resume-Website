@@ -2,7 +2,7 @@
   <div>
     <b-jumbotron
       header="Projects"
-      lead="A list of projects that I have completed or actively working on"
+      lead="A list of projects that I have completed or that I am currently working on"
     >
       <!-- For each project, add a card to the card group
        -->

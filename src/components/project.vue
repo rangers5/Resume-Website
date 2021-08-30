@@ -16,7 +16,7 @@
     </b-card-text>
       <!-- Github button and link -->
       <div v-if="projectLink=='null'">
-         <b-button variant="danger" pressed="false">Private Soruce Code</b-button>
+         <b-button variant="danger" pressed="false">Private Source Code</b-button>
       </div>
       <div v-else>
          <b-button :href="projectLink" variant="primary">Visit Github</b-button>
